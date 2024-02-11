@@ -1,4 +1,4 @@
-.body {
+body {
   font-family: "Roboto", sans-serif;
   color: #434455;
   background-color: #ffffff;
@@ -50,7 +50,6 @@ a {
   letter-spacing: 0.02em;
   color: #434455;
 }
-
 .address-link :hover,
 .addrees-link :focus {
   background-color: #404bbf;
