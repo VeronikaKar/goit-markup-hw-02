@@ -36,7 +36,7 @@ a {
 }
 .header-link :hover,
 .header-link :focus {
-  background-color: #404bbf;
+  color: #404bbf;
 }
 .address {
   font-style: normal;
@@ -52,7 +52,7 @@ a {
 }
 .address-link :hover,
 .addrees-link :focus {
-  background-color: #404bbf;
+  color: #404bbf;
 }
 .order-click {
   background-color: #2e2f42;
