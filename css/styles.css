@@ -28,6 +28,7 @@ a {
 }
 .header-link {
   font-family: "Roboto";
+  font-weight: 500;
   font-size: 16px;
   line-height: 150%;
   letter-spacing: 0.02em;
@@ -39,29 +40,20 @@ a {
   background-color: #404bbf;
 }
 .address {
+  font-style: normal;
 }
-.adress-list {
+.address-list {
 }
-.adress-mail {
+.address-link {
   font-style: normal;
   font-size: 16px;
   line-height: 150%;
   letter-spacing: 0.02em;
   color: #434455;
 }
-.adress-mail:hover,
-.adress-mail:focus {
-  background-color: #404bbf;
-}
-.adress-tel {
-  font-style: normal;
-  font-size: 16px;
-  line-height: 150%;
-  letter-spacing: 0.02em;
-  color: #434455;
-}
-.adress-tel:hover,
-.adress-tel:focus {
+
+.address-mail:first-child.address-link :hover,
+.address-tel:first-child.addrees-link :focus {
   background-color: #404bbf;
 }
 .order-click {
@@ -81,10 +73,6 @@ a {
   line-height: 150%;
   letter-spacing: 0.04em;
   color: #fff;
-  width: 169px;
-  height: 56px;
-  border-radius: 4px;
-  box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
   background-color: #4d5ae5;
 }
 .order {
@@ -124,8 +112,6 @@ a {
   text-align: center;
 }
 .team-item {
-  box-shadow: 0 2px 1px 0 rgba(46, 47, 66, 0.08),
-    0 1px 1px 0 rgba(46, 47, 66, 0.16), 0 1px 6px 0 rgba(46, 47, 66, 0.08);
   background-color: #ffffff;
 }
 
