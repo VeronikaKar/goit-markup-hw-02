@@ -67,7 +67,7 @@ a {
 .order-click {
   background-color: #2e2f42;
 }
-.main-name: {
+.main-name {
   font-size: 56px;
   line-height: 107%;
   letter-spacing: 0.02em;
@@ -91,7 +91,7 @@ a {
   cursor: pointer;
 }
 .order:hover,
-.order:focus: {
+.order:focus {
   background-color: #404bbf;
 }
 .benefit-list {
