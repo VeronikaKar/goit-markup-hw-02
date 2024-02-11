@@ -34,8 +34,8 @@ a {
   letter-spacing: 0.02em;
   color: #2e2f42;
 }
-.header-link :hover,
-.header-link :focus {
+.nav-list-item:first-child.header-link :hover,
+.nav-list-item:first-child.header-link:focus {
   color: #404bbf;
 }
 .address {
@@ -50,8 +50,8 @@ a {
   letter-spacing: 0.02em;
   color: #434455;
 }
-.address-link :hover,
-.addrees-link :focus {
+.adress-item:first-child.address-link :hover,
+.adress-item:first-child.address-link :focus {
   color: #404bbf;
 }
 .order-click {
