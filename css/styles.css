@@ -51,7 +51,7 @@ body {
 .address-link:focus {
   color: #404bbf;
 }
-.order-click {
+.click {
   background-color: #2e2f42;
 }
 .main-name {
@@ -61,7 +61,7 @@ body {
   color: #fff;
   text-align: center;
 }
-.order {
+.click-button {
   font-family: "Roboto", sans-serif;
   font-weight: 500;
   font-size: 16px;
@@ -70,11 +70,11 @@ body {
   color: #fff;
   background-color: #4d5ae5;
 }
-.order {
+.click-button {
   cursor: pointer;
 }
-.order:hover,
-.order:focus {
+.click-button:hover,
+.click-button:focus {
   background-color: #404bbf;
 }
 .benefit-list {
